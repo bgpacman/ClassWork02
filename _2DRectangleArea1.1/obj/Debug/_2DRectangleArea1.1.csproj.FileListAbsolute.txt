@@ -1,0 +1,5 @@
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\_2DRectangleArea1.1\bin\Debug\_2DRectangleArea1.1.exe.config
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\_2DRectangleArea1.1\bin\Debug\_2DRectangleArea1.1.exe
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\_2DRectangleArea1.1\bin\Debug\_2DRectangleArea1.1.pdb
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\_2DRectangleArea1.1\obj\Debug\_2DRectangleArea1.1.exe
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\_2DRectangleArea1.1\obj\Debug\_2DRectangleArea1.1.pdb
